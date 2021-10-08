@@ -1,0 +1,11 @@
+
+.buttons{
+    margin-top: 50px;
+}
+.buttons Button{
+    padding: 20px;
+}
+.link{
+    text-decoration: none;
+    color: white;
+}
